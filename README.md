@@ -1,4 +1,5 @@
-# The deployed Project can be accessed from using the following 
+# Visit Github Pages to access the deployed code
+
 https://faizan-aka.github.io/emojipedia
 
 # Getting Started with Create React App
