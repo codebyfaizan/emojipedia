@@ -1,3 +1,6 @@
+# The deployed Project can be accessed from using the following 
+https://faizan-aka.github.io/emojipedia
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
